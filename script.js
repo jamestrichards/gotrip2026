@@ -1,7 +1,7 @@
 // ====== MANUAL DONATION SETTINGS ======
 // Update these numbers anytime you receive new donations
 const goalAmount = 1800;
-const currentAmount = 900; // <-- change this number as donations come in
+const currentAmount = 0; // <-- change this number as donations come in
 // ======================================
 
 const progressBar = document.getElementById('progress-bar');
